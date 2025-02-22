@@ -48,19 +48,21 @@ A modern Android application for real-time network monitoring with enterprise-gr
 - Android SDK 34
 
 ### 2. Required Permissions
-```xml
-<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
-<uses-permission android:name="android.permission.INTERNET"/>
 
-🔜 Future Improvements
-🛠️ Technical Enhancements
+`<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+<uses-permission android:name="android.permission.INTERNET"/>`
+
+
+## 🔜 Future Improvements
+
+### 🛠️ Technical Enhancements
     - Android NDK Integration
         Native crypto operations for key management
     - Enhanced Certificate Pinning 
         Dynamic pinning configuration
 
-📜 License
+`📜 License
 
 MIT License
 Copyright (c) 2025 [Raul Espim]
-Permission is hereby granted...
+Permission is hereby granted...`
