@@ -46,7 +46,7 @@ A modern Android application for real-time network monitoring with enterprise-gr
 - Android Studio Giraffe+
 - JDK 17
 - Minimum Android SDK: 26
-- Target Android SDK: 34
+- Target Android SDK: 35
 
 ### 2. Required Permissions
 
