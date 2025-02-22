@@ -57,6 +57,7 @@ A modern Android application for real-time network monitoring with enterprise-gr
 ## 🔜 Future Improvements
 
 ### 🛠️ Technical Enhancements
+    - Real Connectivity Verification
     - Android NDK Integration
         Native crypto operations for key management
     - Enhanced Certificate Pinning 

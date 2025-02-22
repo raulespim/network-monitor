@@ -165,7 +165,7 @@ private fun SpeedIndicator(label: String, speed: Double) {
     ) {
         Text("$label:", modifier = Modifier.width(100.dp))
         Text(
-            text = "${"%.2f".format(speed)} Mbps",
+            text = if (speed > 0) "${"%.2f".format(speed)} Mbps" else "N/A",
             style = MaterialTheme.typography.bodyLarge.copy(fontFamily = FontFamily.Monospace)
         )
     }
