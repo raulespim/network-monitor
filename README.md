@@ -45,12 +45,13 @@ A modern Android application for real-time network monitoring with enterprise-gr
 ### 1. Requirements
 - Android Studio Giraffe+
 - JDK 17
-- Android SDK 34
+- Minimum Android SDK: 26
+- Target Android SDK: 34
 
 ### 2. Required Permissions
 
-`<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
-<uses-permission android:name="android.permission.INTERNET"/>`
+`<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>`
+`<uses-permission android:name="android.permission.INTERNET"/>`
 
 
 ## 🔜 Future Improvements
